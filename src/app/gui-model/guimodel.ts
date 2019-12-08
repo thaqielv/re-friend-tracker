@@ -138,6 +138,14 @@ export class GuiModel {
                             "color": "blue",
                             "page": "friendspage",
                         },
+{
+ "type": "button",
+ "name": "Groups",
+ "icon": "fa-weixin",
+ "color": "wisteria",
+ "page": "groupspage",
+},
+
                         {
                             "type": "button",
                             "name": "Location",
